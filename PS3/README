@@ -1,2 +1,2 @@
 This folder contains the matlab code to solve Aiyagari's model, assuming that the income process is [0.5, 1.0, 1.5] and the transition matrix between states is [1/2 1/2 0; 1/4 1/2 1/4; 0 1/2 1/2]
-
+Preferences are represented by log utility, and assets are constrained to be greater or equal to zero. Production function is given by Cobb-Douglas. 
